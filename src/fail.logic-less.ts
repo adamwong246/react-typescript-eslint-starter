@@ -1,5 +1,3 @@
-import {react} from 'react';
-
 interface Filter {
   aNumber: number;
 }
@@ -19,3 +17,5 @@ const assFunction = () => true
 console.log(someString);
 
 const foobar = true || false;
+
+const added = 1 + 5;

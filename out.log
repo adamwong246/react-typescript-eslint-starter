@@ -1,0 +1,8 @@
+
+/Users/adamwong/Code/react-typescript-eslint-starter/src/fail.logic-less.ts
+  13:29  error  ArrowFunctionExpression not allowed in logic-less files  no-restricted-syntax
+  15:21  error  ArrowFunctionExpression not allowed in logic-less files  no-restricted-syntax
+  19:16  error  LogicalExpression not allowed in logic-less files        no-restricted-syntax
+
+✖ 3 problems (3 errors, 0 warnings)
+
